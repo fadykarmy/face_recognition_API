@@ -1,6 +1,0 @@
-face_recognition==1.3.0
-Flask==2.0.3
-numpy==1.19.5
-opencv_python==4.9.0.80
-gunicorn
-pickle
